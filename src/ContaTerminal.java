@@ -1,3 +1,5 @@
+package ContaBanco.src;
+
 import java.util.Scanner;
 import java.util.Random;
 import java.text.DecimalFormat;
