@@ -4,6 +4,9 @@ import java.text.DecimalFormat;
 
 public class ContaTerminal {
 
+
+    //desafio dio
+    
     private int numero;
     private String nomeCliente, agencia;
     private double saldo;
